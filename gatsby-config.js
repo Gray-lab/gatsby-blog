@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `gray lab blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Martin Grym`,
+      summary: `learning about fun computer stuff`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A blog about adventures in computer science`,
+    siteUrl: `https://graylab.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      github: `Gray-lab`,
     },
   },
   plugins: [
