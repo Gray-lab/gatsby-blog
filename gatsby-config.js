@@ -3,7 +3,7 @@ module.exports = {
     title: `gray lab blog`,
     author: {
       name: `Martin Grym`,
-      summary: `learning about fun computer stuff`,
+      summary: `who is an ex structural engineer now learning about programming and software engineering.`,
     },
     description: `A blog about adventures in computer science`,
     siteUrl: `https://graylab.gatsbyjs.io/`,
