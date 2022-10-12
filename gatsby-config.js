@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `gray lab blog`,
+    title: `gray lab`,
     author: {
       name: `Martin Grym`,
-      summary: `who is an ex structural engineer now learning about programming and software engineering.`,
+      summary: `Hi, I am Martin Grym. I used to be a structural engineer until I fell in love with programming. When I learn interesting and fun things, I write about them sometimes. `,
     },
-    description: `A blog about adventures in computer science`,
+    description: `Adventures in computer science`,
     siteUrl: `https://graylab.gatsbyjs.io/`,
     social: {
       github: `Gray-lab`,
