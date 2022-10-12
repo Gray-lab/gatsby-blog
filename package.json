@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "gray lab",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "My thoughts on learning computer science",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Martin Grym <martin.grym@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
