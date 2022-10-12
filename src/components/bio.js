@@ -48,12 +48,10 @@ const Bio = () => {
         <p>
           Hi, I am <strong>{author.name}</strong>. {author?.summary || null}
           {` `}
-        </p>
-        <p>
           You can find me on 
-            <a href={`https://github.com/${social?.github || ``}`}>Github</a>
+            <a href={`https://github.com/${social?.github || ``}`}> Github </a>
           and
-            <a href={`https://linkedin.com/${social?.linkedin || ``}`}>Linkedin</a>
+            <a href={`https://linkedin.com/${social?.linkedin || ``}`}> Linkedin </a>
           .
         </p> 
         </>
