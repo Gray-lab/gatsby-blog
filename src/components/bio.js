@@ -44,6 +44,7 @@ const Bio = () => {
         alt="Profile picture"
       />
       {author?.name && (
+       <>
         <p>
           Hi, I am <strong>{author.name}</strong>. {author?.summary || null}
           {` `}
@@ -54,7 +55,8 @@ const Bio = () => {
           and
             <a href={`https://linkedin.com/${social?.linkedin || ``}`}>Linkedin</a>
           .
-        </p>          
+        </p> 
+        </>
       )}
     </div>
   )
